@@ -9,6 +9,7 @@
 		<string>todo</string>
 		<string>tasks</string>
 		<string>todolist</string>
+		<string>taskpaper</string>
 	</array>
 	<key>keyEquivalent</key>
 	<string>^~T</string>
